@@ -1,9 +1,9 @@
-[![official JetBrains project](http://jb.gg/badges/official-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+[![official Android.X.JetBrains project](http://jb.gg/badges/official-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![JetBrains plugins][plugin-version-svg]][plugin-repo]
 [![JetBrains plugins][plugin-downloads-svg]][plugin-repo]
 [![JetBrains plugins][plugin-rating-svg]][plugin-repo]
 
-## The JetBrains Academy plugin
+## The Android.X.JetBrains Academy plugin
 
 Turn on the free educational features in your IDE to learn programming from scratch, expand your current skill set,
 or create your own interactive courses to share with others.
